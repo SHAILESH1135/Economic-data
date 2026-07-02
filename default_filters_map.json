@@ -1,0 +1,100 @@
+{
+  "PLFS": {
+    "indicator_code": "3",
+    "frequency_code": "3",
+    "year_type_code": "2"
+  },
+  "CPI": {
+    "base_year": "2012",
+    "series": "Current",
+    "group_code": "0",
+    "sector_code": "3",
+    "state_code": "99"
+  },
+  "IIP": {
+    "base_year": "2011-12",
+    "category_code": "4",
+    "frequency": "Monthly",
+    "type": "General",
+    "month_code": "1"
+  },
+  "ASI": {
+    "classification_year": "2008",
+    "sector_code": "Combined",
+    "nic_type": "All"
+  },
+  "NAS": {
+    "base_year": "2022-23",
+    "series": "Current",
+    "frequency_code": "Annually",
+    "indicator_code": "1"
+  },
+  "WPI": {
+    "base_year": "2011-12",
+    "majorgroup_code": "0",
+    "limit": "100"
+  },
+  "ENERGY": {
+    "indicator_code": "Energy Balance ( in KToE )",
+    "use_of_energy_balance_code": "Supply",
+    "limit": "100"
+  },
+  "AISHE": {
+    "indicator_code": "1",
+    "sub_indicator_code": "1"
+  },
+  "ASUSE": {
+    "indicator_code": "1"
+  },
+  "GENDER": {
+    "indicator_code": "Trend in Population",
+    "sub_indicator_code": "1"
+  },
+  "NFHS": {
+    "indicator_code": "1",
+    "sub_indicator_code": "1"
+  },
+  "ENVSTATS": {
+    "indicator_code": "1",
+    "sub_indicator_code": "1"
+  },
+  "RBI": {
+    "sub_indicator_code": "22",
+    "limit": "100"
+  },
+  "NSS77": {
+    "indicator_code": "Estimated No. of Hhs for Each Size Class (ha.) of Land Possessed",
+    "sub_indicator_code": "16"
+  },
+  "NSS78": {
+    "Indicator": "Usage of Mobile Phone",
+    "indicator_code": "1"
+  },
+  "CPIALRL": {
+    "indicator_code": "1"
+  },
+  "HCES": {
+    "indicator_code": "Average monthly per capita consumption expenditure (MPCE)",
+    "limit": "100"
+  },
+  "TUS": {
+    "indicator_code": "Percentage of persons in different activity in a day as major activity (age 6 years and above)",
+    "sub_indicator_code": "4"
+  },
+  "EC": {
+    "indicator_code": "1",
+    "state": "01",
+    "sub_indicator_code": "1"
+  },
+  "NSS79": {
+    "survey_code": "1",
+    "indicator_code": "1"
+  },
+  "UDISE": {
+    "indicator_code": "1",
+    "sub_indicator_code": "1"
+  },
+  "MNRE": {
+    "isGroupView": "False"
+  }
+}
